@@ -73,4 +73,4 @@ RUN dotnet interactive jupyter install
 ENV DOTNET_TRY_CLI_TELEMETRY_OPTOUT=false
 
 # Set root to notebooks
-WORKDIR ${HOME}/notebooks/
+WORKDIR ${HOME}/notebooks/#sakmpar/
